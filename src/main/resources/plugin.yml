@@ -1,0 +1,5 @@
+main: me.playbosswar.orescanner.Main
+name: "${project.name}"
+version: "${project.version}"
+description: "${project.description}"
+author: PlayBossWar

@@ -1,0 +1,13 @@
+pickaxes:
+  DIAMOND_PICKAXE:
+    scanFor:
+      - DIAMOND_ORE
+  IRON_PICKAXE:
+    scanFor:
+      - IRON_ORE
+  GOLDEN_PICKAXE:
+    scanFor:
+      - GOLD_ORE
+  STONE_PICKAXE:
+    scanFor:
+      - COAL_ORE

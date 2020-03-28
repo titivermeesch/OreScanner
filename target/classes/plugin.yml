@@ -1,0 +1,5 @@
+main: me.playbosswar.orescanner.Main
+name: "OreScanner"
+version: "1.0"
+description: "Transform your pickaxes in real ore scanners"
+author: PlayBossWar
