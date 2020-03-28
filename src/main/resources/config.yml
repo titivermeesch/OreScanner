@@ -2,12 +2,16 @@ pickaxes:
   DIAMOND_PICKAXE:
     scanFor:
       - DIAMOND_ORE
+    radius: 5
   IRON_PICKAXE:
     scanFor:
       - IRON_ORE
-  GOLDEN_PICKAXE:
+    radius: 7
+  GOLD_PICKAXE:
     scanFor:
       - GOLD_ORE
+    radius: 8
   STONE_PICKAXE:
     scanFor:
       - COAL_ORE
+    radius: 10

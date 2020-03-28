@@ -1,2 +1,5 @@
-me/playbosswar/orescanner/listeners/PickaxeClickEvents.class
+me/playbosswar/orescanner/utils/Messages.class
+me/playbosswar/orescanner/utils/ConfigAnalyser.class
+me/playbosswar/orescanner/hooks/VaultAPI.class
 me/playbosswar/orescanner/Main.class
+me/playbosswar/orescanner/listeners/PickaxeClickEvents.class

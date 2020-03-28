@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OreScanner" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb6fdde5-113e-44fb-af9e-f7f7d7c31572" name="Default Changelist" comment="" />
+    <list default="true" id="cb6fdde5-113e-44fb-af9e-f7f7d7c31572" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/commands/HelpCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/hooks/VaultAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/utils/BlockFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/utils/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/utils/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OreScanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OreScanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/listeners/PickaxeClickEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/listeners/PickaxeClickEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/utils/ConfigAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/playbosswar/orescanner/utils/ConfigAnalyser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OreScanner_v1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/OreScanner_v1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/playbosswar/orescanner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/playbosswar/orescanner/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/playbosswar/orescanner/listeners/PickaxeClickEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/playbosswar/orescanner/listeners/PickaxeClickEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -36,6 +67,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZlApHSqTPEGg4eEW1tobuGhZmu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,6 +77,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -51,7 +86,31 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29310346" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug server" type="Remote">
+      <module name="OreScanner" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OreScanner" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,7 +122,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585403487696</updated>
-      <workItem from="1585403489418" duration="1864000" />
+      <workItem from="1585403489418" duration="7954000" />
+      <workItem from="1585430352000" duration="3219000" />
     </task>
     <servers />
   </component>
@@ -71,25 +131,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1585403645430">
+    <state x="627" y="338" key="#BuildArtifactsBeforeRunChooser" timestamp="1585411571076">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585403645430" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1585404764414">
+    <state x="627" y="338" key="#BuildArtifactsBeforeRunChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585411571076" />
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585411588097">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585404764414" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1585404764413">
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585411588097" />
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1585415538057">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585404764413" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1585404764412">
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585415538057" />
+    <state x="791" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585411446188">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585404764412" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1585404764414">
+    <state x="791" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585411446188" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1585434536416">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585404764414" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536416" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1585434536414">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536414" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1585434536413">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536413" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1585434536415">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536415" />
+    <state width="1638" height="280" key="GridCell.Tab.1.bottom" timestamp="1585434536420">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536420" />
+    <state width="1638" height="280" key="GridCell.Tab.1.center" timestamp="1585434536418">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536418" />
+    <state width="1638" height="280" key="GridCell.Tab.1.left" timestamp="1585434536417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536417" />
+    <state width="1638" height="280" key="GridCell.Tab.1.right" timestamp="1585434536419">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585434536419" />
+    <state x="328" y="108" key="SettingsEditor" timestamp="1585415452272">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="108" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585415452272" />
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1585430352039">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585430352039" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1585433638884">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585433638884" />
   </component>
 </project>

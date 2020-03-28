@@ -3,3 +3,10 @@ name: "OreScanner"
 version: "1.0"
 description: "Transform your pickaxes in real ore scanners"
 author: PlayBossWar
+softdepend: [Vault]
+api-version: '1.13'
+
+commands:
+  oretest:
+    usage: /<command>
+    description: Help command

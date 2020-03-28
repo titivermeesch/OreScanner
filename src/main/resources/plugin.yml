@@ -3,3 +3,10 @@ name: "${project.name}"
 version: "${project.version}"
 description: "${project.description}"
 author: PlayBossWar
+softdepend: [Vault]
+api-version: '1.13'
+
+commands:
+  oretest:
+    usage: /<command>
+    description: Help command

@@ -4,6 +4,7 @@ import me.playbosswar.orescanner.Main;
 import org.bukkit.Material;
 
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class ConfigAnalyser {
     /**
@@ -13,8 +14,9 @@ public class ConfigAnalyser {
     public static ArrayList<Material> getEnabledPickaxes() {
         ArrayList<Material> enabledPickaxes = new ArrayList<>();
 
-        for(String s : Main.getPlugin().getConfig().getConfigurationSection("pickaxes").getKeys(false)) {
-            Material m = Material.valueOf(s);
+        for(String s : Objects.requireNonNull(Main.getPlugin().getConfig().getConfigurationSection("pickaxes")).getKeys(false)) {
+            System.out.println(s);
+            Material m = Material.matchMaterial(s);
             enabledPickaxes.add(m);
         }
         return enabledPickaxes;
